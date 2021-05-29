@@ -5,8 +5,9 @@ image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
 blurb:
   heading: Why Royalty Food Mart?
   text: >-
-    Royalty Food Mart is your one stop shop for all your food supplies. Fresh,
-    healthy, pesticide free and organic produce is all we have to offer. 
+    Royalty Food Mart is your one stop shop for all your household food
+    supplies. Fresh, healthy, pesticide free and organic produce is all we have
+    to offer every single time. 
 
 
     Because we know you need good food to survive, we have gone out of our way to provide only the best agricultural and organic produce directly from small scale sustainable farmers. 
@@ -24,17 +25,13 @@ intro:
     Just Search, Click and Pay and you would have your order at your doorstep within 24hrs. Yes! We are that good.
 
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: https://images.app.goo.gl/YFbUETyHiiDJ5NDc9
+    text: Freshly Harvested Plantains
 values:
   heading: Our values
   text: >-
