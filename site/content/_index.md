@@ -1,6 +1,6 @@
 ---
 title: ROYALTY FOOD MART
-subtitle: Where Kings and Queens Shop
+subtitle: Fresh. Healthy. Organic
 image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
 blurb:
   heading: Why Royalty Food Mart?
@@ -15,10 +15,14 @@ blurb:
     We also make sure part of the profits are reinvested to help them build their families and communities so that they can keep providing just the best for you alone.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: >+
+    What ever you need can be gotten here at Royalty Food Mart just with the
+    click of a button. From fresh fruits and vegetables to yam and plantain
+    tubers to Rice and Beans e.t.c
+
+
+    Just Search, Click and Pay and you would have your order at your doorstep within 24hrs. Yes! We are that good.
+
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
