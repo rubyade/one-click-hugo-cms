@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: img/83.png
+logo: img/83-removebg-preview.png
 contact_entries:
   - heading: Location
     text: "356, South West Road Jos.            "
