@@ -5,8 +5,8 @@ image: img/megan-thomas-xmh_ww8hn_q-unsplash.jpg
 blurb:
   heading: Why Royalty Food Mart?
   text: >-
-    Royalty Food Mart is the one stop shop for all your food supplies. Fresh,
-    healthy and pesticide free organic produce is all we have to offer. 
+    Royalty Food Mart is your one stop shop for all your food supplies. Fresh,
+    healthy, pesticide free and organic produce is all we have to offer. 
 
 
     Because we know you need good food to survive, we have gone out of our way to provide only the best agricultural and organic produce directly from small scale sustainable farmers. 
@@ -37,8 +37,9 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    We are driving a chain of customer-centric food farmers who take the time to
+    produce raw food 
+
+    through a sustainable way. We are also putting an end to those needless and time-consuming rides to the market and creating an avenue where you can shop in peace from the comfort of your home The amazing part is that you are satisfied the farmer is as well because together we empower a farmer and make a customer more comfortable and give them time to what they love the most.
 ---
